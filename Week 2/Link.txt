@@ -1,0 +1,19 @@
+MNIST - GitHub Link: https://github.com/zalandoresearch/fashion-mnist
+
+Machine Learning Fairness: https://developers.google.com/machine-learning/fairness-overview/
+
+Neural Network Overview: https://youtu.be/fXOsFF95ifk
+
+Get hands-on with computer vision: https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%204%20-%20Lesson%202%20-%20Notebook.ipynb#scrollTo=WzlqsEzX9s5P
+
+See how to implement Callbacks: https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%204%20-%20Lesson%204%20-%20Notebook.ipynb
+
+
+Week 2 Resources
+
+Beyond Hello, World - A Computer Vision Example: https://github.com/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%204%20-%20Lesson%202%20-%20Notebook.ipynb
+Exploring Callbacks: https://github.com/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%204%20-%20Lesson%204%20-%20Notebook.ipynb
+Exercise 2 - Handwriting Recognition - Answer: https://github.com/lmoroney/dlaicourse/blob/master/Exercises/Exercise%202%20-%20Handwriting%20Recognition/Exercise2-Answer.ipynb
+
+
+
