@@ -1,0 +1,13 @@
+Coding convolutions and pooling layers
+--------------------------------------
+Conv2D: https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D
+MaxPooling2D: https://www.tensorflow.org/api_docs/python/tf/keras/layers/MaxPool2D
+
+Implementing convolutional layers: https://bit.ly/2UGa7uH
+or https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
+
+Improving the Fashion classifier with convolutions: https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%206%20-%20Lesson%202%20-%20Notebook.ipynb
+
+Experiment with filters and pools:
+Walking through convolutions: https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%206%20-%20Lesson%203%20-%20Notebook.ipynb
+Image Filtering: https://lodev.org/cgtutor/filtering.html
