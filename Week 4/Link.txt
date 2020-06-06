@@ -1,0 +1,10 @@
+Explore an impactful, real-world solution: https://www.youtube.com/watch?v=NlpS-DhayQA
+--------------------------------------
+Training the ConvNet with fit_generator:
+
+2.1.4 Gradient Descent in Practice II Learning Rate by Andrew Ng: http://youtu.be/zLRB4oupj6g
+--------------------------------------
+Training the neural network:
+Binary Crossentropy: https://gombru.github.io/2018/05/23/cross_entropy_loss/
+RMSProp: http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf
+Video: https://www.youtube.com/watch?v=eqEc66RFY0I&t=6s
