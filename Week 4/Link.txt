@@ -8,3 +8,9 @@ Training the neural network:
 Binary Crossentropy: https://gombru.github.io/2018/05/23/cross_entropy_loss/
 RMSProp: http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf
 Video: https://www.youtube.com/watch?v=eqEc66RFY0I&t=6s
+--------------------------------------
+Experiment with the horse or human classifier: https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%202%20-%20Notebook.ipynb
+--------------------------------------
+Adding automatic validation to test accuracy: https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%203%20-%20Notebook.ipynb
+--------------------------------------
+Exploring the impact of compressing images: https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%204%20-%20Notebook.ipynb
