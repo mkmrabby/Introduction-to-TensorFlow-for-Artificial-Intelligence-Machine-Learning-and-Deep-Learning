@@ -1,1 +1,2 @@
-https://github.com/prabh-me/Introduction-to-TensorFlow-for-Artificial-Intelligence-Machine-Learning-and-Deep-Learning-Coursera
+Certificate: https://coursera.org/share/068079b25e67f155808ecbb8b24a0662
+others Link: https://github.com/prabh-me/Introduction-to-TensorFlow-for-Artificial-Intelligence-Machine-Learning-and-Deep-Learning-Coursera
